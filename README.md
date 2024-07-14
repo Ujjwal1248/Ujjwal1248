@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1GyFsUbeEZvyQFASKEdWklb4ectEl50EY/view?usp=drive_link)](https://githu.com/ujjwal1248)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ujjwal1248)
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate Software, IOT and Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
