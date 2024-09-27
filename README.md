@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/b49a669e-e538-40da-b41c-c66070f40c67)
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate Software, IOT and Fullstack developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+/* <img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> */
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal1248" alt="ujjwal1248" /></a> </p>
 
