@@ -1,5 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/b49a669e-e538-40da-b41c-c66070f40c67)
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h2 align="center">"Code it. Crack it. Conquer it." — The Ujjwal Way</h2>
 <h3 align="center">A passionate Software, IOT and Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal1248" alt="ujjwal1248" /></a> </p>
