@@ -3,7 +3,6 @@
 <h2 align="center">"Code it. Crack it. Conquer it." — The Ujjwal Way</h2>
 <h3 align="center">A passionate Software, IOT and Fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal1248" alt="ujjwal1248" /></a> </p>
 
 - 🌱 I’m currently learning **React, Advanced Java**
 
