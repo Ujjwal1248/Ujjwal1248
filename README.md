@@ -27,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal1248&show_icons=true&locale=en&layout=compact" alt="ujjwal1248" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1248&" alt="ujjwal1248" /></p>
+<p><img src="https://leetcard.jacoblin.cool/ujjwalagrawal1248" alt="LeetCode Stats" /></p>
