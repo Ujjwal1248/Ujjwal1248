@@ -28,3 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1248&" alt="ujjwal1248" /></p>
 <p><img src="https://leetcard.jacoblin.cool/ujjwalagrawal1248" alt="LeetCode Stats" /></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal1248&amp;bg_color=0d1117cc,0f2027cc,203a43cc,2c5364cc&amp;color=ffffff&amp;line=00bfff&amp;point=ff6ec7&amp;area=true&amp;hide_border=true" alt="Github Stats"></p>
+<p><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ujjwalpro1212&amp;bg_color=1212124D&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=00bfff" alt="Codeforces Stats"></p>
